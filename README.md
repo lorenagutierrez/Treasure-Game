@@ -1,1 +1,1 @@
-# Treasure-Game
+# TreasureGame
